@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Aman here 👋
 
 <!--
 **Aman-Mandal/Aman-Mandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
