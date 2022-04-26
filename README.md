@@ -1,4 +1,4 @@
-[<img align='right' src="./Img/giphy.webp" width="320">]()
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h1 align="center">HI I'm Aman Mandal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </h1>
 
@@ -58,8 +58,8 @@
 ##
 
 <a href="https://twitter.com/AmanMandal_">
-  <img align="right" alt="Aman Mandal | Twitter" width="21px" src="./Img/twitter.png" />
+  <img align="right" alt="Aman Mandal | Twitter "src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
-<a href="www.linkedin.com/in/amanmandal">
-  <img align="right" alt="Aman Mandal | Linkedin" width="21px" src="./Img/linkedin.png" />
+<a href="https://www.linkedin.com/in/amanmandal/">
+  <img align="right" alt="Aman Mandal | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
