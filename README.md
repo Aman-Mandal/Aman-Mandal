@@ -1,23 +1,26 @@
-[<img align='right' src="./Images/g2.gif" width="320">]()
-<h1 align="center">HI I'm Aman Mandal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </h1>
+[<img align='right' src="./Img/giphy.webp" width="320">]()
 
+<h1 align="center">HI I'm Aman Mandal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </h1>
 
 - 3rd year B.Sc.CS student <br />
 - Currently learning ReactJS
-- Aspiring Full Stack Web Developer + Indie Game Dev
+- Aspiring Full Stack Web Developer + Indie Game Dev 💻
 - Focusing on **#100DaysOfCode**
 
 - Projects that i worked on:
+
   - [**Bankist**](https://github.com/Aman-Mandal/Bankist) - A Banking project based on Vanilla JS
   - [**ATM Simulation**](https://github.com/Aman-Mandal/ATM-Simulation) - An ATM Simulation built with Java and Spring Framework
   - [**PIG-DICE**](https://aman-mandal-dice-game.netlify.app/) - A Dice game built with Vanilla JS and CSS
-  - [**Tip Calculator**](https://github.com/Aman-Mandal/Tip-Calculator) - An Android app for calculating Tip 
+  - [**Tip Calculator**](https://github.com/Aman-Mandal/Tip-Calculator) - An Android app for calculating Tip
 
 - Currently working on :
   - [**Bankist Website**](https://github.com/Aman-Mandal/Bankist-Website) - A small banking website using HTML, CSS and JS
 
 ##
+
 ### Tech Stack :
+
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -31,28 +34,32 @@
 </div>
 
 ##
+
 ### Blogs :
 
 - <a href="https://amanmandal.hashnode.dev/what-is-git-and-github-and-why-is-it-so-important">What is Git and Github? And why is it so important?</a>
 - <a href="https://amanmandal.hashnode.dev/what-is-an-array-and-why-its-so-popular">What is an Array ?</a>
 - <a href="https://amanmandal.hashnode.dev/binary-search">Binary Search</a>
-  <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 
- 
-##  
-<img alt="Aman Mandal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aman-Mandal&theme=react-dark&area=true" width="100%"  />
+<div>
+  <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</div>
 
 
 ##
+
+<img alt="Aman Mandal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aman-Mandal&theme=react-dark&area=true" width="100%"  />
+
+##
+
 <img  src="https://github-readme-stats.vercel.app/api?username=Aman-Mandal&show_icons=true&theme=react" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Mandal&theme=react" width="48%" >
 
-
-## 
+##
 
 <a href="https://twitter.com/AmanMandal_">
-  <img align="right" alt="Aman Mandal | Twitter" width="21px" src="" />
+  <img align="right" alt="Aman Mandal | Twitter" width="21px" src="./Img/twitter.png" />
 </a>
-<a href="www.linkedin.com/in/amanmanda">
-  <img align="right" alt="HimaRaniMathews | Linkedin" width="21px" src="" />
+<a href="www.linkedin.com/in/amanmandal">
+  <img align="right" alt="Aman Mandal | Linkedin" width="21px" src="./Img/linkedin.png" />
 </a>
