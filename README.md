@@ -10,12 +10,14 @@
 - Projects that i worked on:
 
   - [**Bankist**](https://github.com/Aman-Mandal/Bankist) - A Banking project based on Vanilla JS
+  - [**Bankist Website**](https://github.com/Aman-Mandal/Bankist-Website) - A small banking website using HTML, CSS and JS
   - [**ATM Simulation**](https://github.com/Aman-Mandal/ATM-Simulation) - An ATM Simulation built with Java and Spring Framework
   - [**PIG-DICE**](https://aman-mandal-dice-game.netlify.app/) - A Dice game built with Vanilla JS and CSS
   - [**Tip Calculator**](https://github.com/Aman-Mandal/Tip-Calculator) - An Android app for calculating Tip
 
 - Currently working on :
-  - [**Bankist Website**](https://github.com/Aman-Mandal/Bankist-Website) - A small banking website using HTML, CSS and JS
+  - [**Mapty**](https://github.com/Aman-Mandal/Mapty) - An application based on LeafletJS library in which we can track our workouts
+  
 
 ##
 
