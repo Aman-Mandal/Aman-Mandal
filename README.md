@@ -3,17 +3,23 @@
 <h1 align="center">HI I'm Aman Mandal 👋  </h1>
 
 - 3rd year B.Sc.CS student <br />
-- Currently learning ReactJS
+- Currently learning **ReactJS**
 - Aspiring Full Stack Web Developer + Indie Game Dev 💻
 - Focusing on **#100DaysOfCode**
 
-- Projects that i worked on:
+- Projects that I worked on:
 
   - [**Forkify**](https://github.com/Aman-Mandal/Forkify) - An API based recipe application built with Vanilla JS 
   - [**Mapty**](https://github.com/Aman-Mandal/Mapty) - An application based on LeafletJS library in which we can track our workouts
   - [**Bankist**](https://github.com/Aman-Mandal/Bankist) - A Banking project based on Vanilla JS
   - [**Bankist Website**](https://github.com/Aman-Mandal/Bankist-Website) - A small banking website using HTML, CSS and JS
   - [**ATM Simulation**](https://github.com/Aman-Mandal/ATM-Simulation) - An ATM Simulation built with Java and Spring Framework
+
+
+- Project that I am currently working on:
+
+  - [**Expense Tracker**](https://github.com/Aman-Mandal/Expense-Tracker) - An Expense tracking app built with ReactJS framework
+
 
 ##
 
