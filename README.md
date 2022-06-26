@@ -11,14 +11,14 @@
 
   - [**Forkify**](https://github.com/Aman-Mandal/Forkify) - An API based recipe application built with Vanilla JS 
   - [**Mapty**](https://github.com/Aman-Mandal/Mapty) - An application based on LeafletJS library in which we can track our workouts
-  - [**Bankist**](https://github.com/Aman-Mandal/Bankist) - A Banking project based on Vanilla JS
-  - [**Bankist Website**](https://github.com/Aman-Mandal/Bankist-Website) - A small banking website using HTML, CSS and JS
+  - [**Bankist**](https://github.com/Aman-Mandal/Bankist) - A Banking application project based on Vanilla JS
   - [**ATM Simulation**](https://github.com/Aman-Mandal/ATM-Simulation) - An ATM Simulation built with Java and Spring Framework
+  - [**Expense Tracker**](https://github.com/Aman-Mandal/Expense-Tracker) - An Expense tracking app built with ReactJS library
 
 
 - Project that I am currently working on:
 
-  - [**Expense Tracker**](https://github.com/Aman-Mandal/Expense-Tracker) - An Expense tracking app built with ReactJS framework
+  - [**Food Cart**](https://github.com/Aman-Mandal/Food-Cart) - A Food Cart application built on ReactJS library
 
 
 ##
