@@ -2,24 +2,23 @@
 
 <h1 align="center">HI I'm Aman Mandal 👋  </h1>
 
-- 3rd year B.Sc.CS student <br />
-- Currently learning **ReactJS**
+- **A Frontend Developer 💻** <br />
+- Currently learning **Next JS**
 - Aspiring Full Stack Web Developer + Indie Game Dev 💻
 - Focusing on **#100DaysOfCode**
 
 - Projects that I worked on:
 
+  - [**Food Cart**](https://github.com/Aman-Mandal/Food-Cart) - A Food Cart application built on ReactJS library
   - [**Forkify**](https://github.com/Aman-Mandal/Forkify) - An API based recipe application built with Vanilla JS 
   - [**Mapty**](https://github.com/Aman-Mandal/Mapty) - An application based on LeafletJS library in which we can track our workouts
-  - [**Bankist**](https://github.com/Aman-Mandal/Bankist) - A Banking application project based on Vanilla JS
   - [**ATM Simulation**](https://github.com/Aman-Mandal/ATM-Simulation) - An ATM Simulation built with Java and Spring Framework
   - [**Expense Tracker**](https://github.com/Aman-Mandal/Expense-Tracker) - An Expense tracking app built with ReactJS library
 
 
 - Project that I am currently working on:
 
-  - [**Food Cart**](https://github.com/Aman-Mandal/Food-Cart) - A Food Cart application built on ReactJS library
-
+  - [**MyTravelBuddy**]()
 
 ##
 
