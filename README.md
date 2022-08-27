@@ -9,16 +9,15 @@
 
 - Projects that I worked on:
 
+  - [**LinkedIn Clone**](https://github.com/Aman-Mandal/linkedIn-clone) - Clone of LinkedIn with ReactJS, Redux and Firebase
   - [**Food Cart**](https://github.com/Aman-Mandal/Food-Cart) - A Food Cart application built on ReactJS library
   - [**Forkify**](https://github.com/Aman-Mandal/Forkify) - An API based recipe application built with Vanilla JS 
-  - [**Mapty**](https://github.com/Aman-Mandal/Mapty) - An application based on LeafletJS library in which we can track our workouts
   - [**ATM Simulation**](https://github.com/Aman-Mandal/ATM-Simulation) - An ATM Simulation built with Java and Spring Framework
   - [**Expense Tracker**](https://github.com/Aman-Mandal/Expense-Tracker) - An Expense tracking app built with ReactJS library
 
 
 - Project that I am currently working on:
-  - [**Zayka**](https://github.com/Aman-Mandal/Zayka) - A Food Ordering Application built with ReactJS and Tailwind CSS
-  - [**LinkedIn Clone**](https://github.com/Aman-Mandal/linkedIn-clone) - Clone of LinkedIn with ReactJS and Firebase
+  - [**Audiophile**](https://github.com/Aman-Mandal/audiophile) - An E-commerce store for audio products like Headphones, Earphones and Speaker built with NextJS, Tailwind CSS, Redux and Firebase
 
 ##
 
