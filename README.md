@@ -3,8 +3,8 @@
 <h1 align="center">HI I'm Aman Mandal 👋  </h1>
 
 - **A Frontend Developer 💻** <br />
-- Currently learning **Next JS**
-- Aspiring Full Stack Web Developer + Indie Game Dev 💻
+- Currently learning **Next JS** & **Solidity**
+- Aspiring Full Stack Blockchain Dev 
 - Focusing on **#100DaysOfCode**
 
 - Projects that I worked on:
@@ -30,11 +30,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=40 height=40 />
+
 
 </div>
 
@@ -42,6 +46,7 @@
 
 ### Blogs :
 
+- <a href="https://www.lambdatest.com/blog/css-typography-and-encoding/">Complete guide on CSS Typography & Encoding</a>
 - <a href="https://amanmandal.hashnode.dev/what-is-git-and-github-and-why-is-it-so-important">What is Git and Github? And why is it so important?</a>
 - <a href="https://amanmandal.hashnode.dev/what-is-an-array-and-why-its-so-popular">What is an Array ?</a>
 - <a href="https://amanmandal.hashnode.dev/binary-search">Binary Search</a>
