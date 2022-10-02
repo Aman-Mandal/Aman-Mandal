@@ -17,7 +17,7 @@
 
 - Project that I am currently working on:
   - [**Audiophile**](https://github.com/Aman-Mandal/audiophile) - An E-commerce store for audio products like Headphones, Earphones and Speaker built with NextJS, Tailwind CSS, Redux and Firebase
-  - [**Writty**](https://github.com/Aman-Mandal/writty) - A blog application built with NextJS, Typescript, Sanity CMS & Tailwind.
+  - [**Groovy**](https://github.com/Aman-Mandal/groovy) - An open-source music player built with NextJS, TailwindCSS, Material UI & Shazam API
 
 ##
 
