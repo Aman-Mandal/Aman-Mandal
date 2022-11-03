@@ -10,13 +10,14 @@
 - Projects that I worked on:
 
   - [**Audiophile**](https://github.com/Aman-Mandal/audiophile) - An E-commerce store for audio products like Headphones, Earphones and Speaker built with NextJS, Tailwind CSS, Redux and Firebase
-  - [**LinkedIn Clone**](https://github.com/Aman-Mandal/linkedIn-clone) - Clone of LinkedIn with ReactJS, Redux and Firebase
-  - [**ATM Simulation**](https://github.com/Aman-Mandal/ATM-Simulation) - An ATM Simulation built with Java and Spring Framework
-  - [**Expense Tracker**](https://github.com/Aman-Mandal/Expense-Tracker) - An Expense tracking app built with ReactJS library
+  - [**Send.io**](https://github.com/Aman-Mandal/Send-IT) - A Decentralized application to send crypto from one account to another, built with NextJS, Tailwind CSS, Solidity, Hardhat and EtherJS.
+  - [**LinkedIn 2.0**](https://github.com/Aman-Mandal/linkedIn-clone) - Clone of LinkedIn with ReactJS, Redux and Firebase
+
 
 - Project that I am currently working on:
   - [**Groovy**](https://github.com/Aman-Mandal/groovy) - An open-source music player built with NextJS, TailwindCSS, Material UI & Shazam API
-  - [**Send.io**](https://github.com/Aman-Mandal/Send-IT) - A Decentralized application to send crypto from one account to another, built with NextJS, Tailwind CSS, Solidity, Hardhat and EtherJS.
+  - [**NFT MarketPlace**](https://github.com/Aman-Mandal/NFT-Marketplace---Build-It-Lumos) - A DAPP for Buying and Selling NFTs, basically an Amazon of NFTs..built with NextJS, Solidity, Hardhat, EtherJS
+  
 
 ##
 
