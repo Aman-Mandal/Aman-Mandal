@@ -3,22 +3,21 @@
 <h1 align="center">HI I'm Aman Mandal 👋  </h1>
 
 - **A Frontend Developer 💻** <br />
-- Currently learning **Next JS** & **Solidity**
+- Currently learning **GraphQL** & **VueJS**
 - Aspiring Full Stack Blockchain Dev 
-- Focusing on **#100DaysOfCode**
+- Focusing on **My JOB** for now 🙃
 
 - Projects that I worked on:
 
   - [**Audiophile**](https://github.com/Aman-Mandal/audiophile) - An E-commerce store for audio products like Headphones, Earphones and Speaker built with NextJS, Tailwind CSS, Redux and Firebase
   - [**Send.io**](https://github.com/Aman-Mandal/Send-IT) - A Decentralized application to send crypto from one account to another, built with NextJS, Tailwind CSS, Solidity, Hardhat and EtherJS.
   - [**LinkedIn 2.0**](https://github.com/Aman-Mandal/linkedIn-clone) - Clone of LinkedIn with ReactJS, Redux and Firebase
+  - [**PolyDex**](https://github.com/dinesh11515/polyDEX) - A Peer to peer decentralised crypto marketplace where user can sell and buy polygon chain cryptocurrencies using any payment method.
 
 
 - Project that I am currently working on:
   - [**Groovy**](https://github.com/Aman-Mandal/groovy) - An open-source music player built with NextJS, TailwindCSS, Material UI & Shazam API
-  - [**NFT MarketPlace**](https://github.com/Aman-Mandal/NFT-Marketplace---Build-It-Lumos) - A DAPP for Buying and Selling NFTs, basically an Amazon of NFTs..built with NextJS, Solidity, Hardhat, EtherJS
   
-
 ##
 
 ### Tech Stack :
@@ -28,7 +27,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=40 height=40 />
@@ -55,10 +56,6 @@
   <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </div>
 
-
-##
-
-<img alt="Aman Mandal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aman-Mandal&theme=react-dark&area=true" width="100%"  />
 
 ##
 
