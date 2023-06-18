@@ -3,20 +3,20 @@
 <h1 align="center">HI I'm Aman Mandal 👋  </h1>
 
 - **A Frontend Developer 💻** <br />
-- Currently learning **GraphQL** & **VueJS**
+- Currently learning **ThreeJS** & **Blender**
 - Aspiring Full Stack Blockchain Dev 
 - Focusing on **My JOB** for now 🙃
 
-- Projects that I worked on:
+### Projects that I worked on:
 
-  - [**Audiophile**](https://github.com/Aman-Mandal/audiophile) - An E-commerce store for audio products like Headphones, Earphones and Speaker built with NextJS, Tailwind CSS, Redux and Firebase
-  - [**Send.io**](https://github.com/Aman-Mandal/Send-IT) - A Decentralized application to send crypto from one account to another, built with NextJS, Tailwind CSS, Solidity, Hardhat and EtherJS.
-  - [**LinkedIn 2.0**](https://github.com/Aman-Mandal/linkedIn-clone) - Clone of LinkedIn with ReactJS, Redux and Firebase
-  - [**PolyDex**](https://github.com/dinesh11515/polyDEX) - A Peer to peer decentralised crypto marketplace where user can sell and buy polygon chain cryptocurrencies using any payment method.
-
-
-- Project that I am currently working on:
-  - [**Groovy**](https://github.com/Aman-Mandal/groovy) - An open-source music player built with NextJS, TailwindCSS, Material UI & Shazam API
+ - [**FVMCall**](https://github.com/VaibhavArora19/hackFS) - FVMCall is a powerful tool that enables Web3 developers to automate and manage smart contract functions effortlessly on the FVM (Filecoin Virtual Machine).
+   
+ - [**ExplorerX**](https://explorerx.vercel.app/) - ExplorerX is the ultimate solution for hassle-free smart contract deployment, management, and verification on multiple chains. With a sleek and intuitive user interface, ExplorerX makes multi-chain smart contract management a breeze. The interface is user-friendly and easy to navigate, making it perfect for builders of all skill levels.
+   
+  - [**LinkPay**](https://linkpay.vercel.app/) - LinkPay is a one-stop gateway that makes it easy to receive payments in crypto. With its simple yet modern UI, businesses, freelancers, creators, and DAOs can seamlessly receive payments without the need for manual checks or the risk of payment volatility.
+   
+  - [**PolyDex**](https://poly-dex.vercel.app/) - A Peer to peer decentralised crypto marketplace where user can sell and buy polygon chain cryptocurrencies using any payment method.
+  - [**Audiophile**](https://audiophile-aman.vercel.app/) - An E-commerce store for audio products like Headphones, Earphones and Speaker built with NextJS, Tailwind CSS, Redux and Firebase
   
 ##
 
@@ -48,9 +48,9 @@
 ### Blogs :
 
 - <a href="https://www.lambdatest.com/blog/css-typography-and-encoding/">Complete guide on CSS Typography & Encoding</a>
-- <a href="https://amanmandal.hashnode.dev/what-is-git-and-github-and-why-is-it-so-important">What is Git and Github? And why is it so important?</a>
+- <a href="https://www.lambdatest.com/blog/css-color-contrast/">CSS Color-Contrast(): A Step-By-Step Guide</a>
+- <a href="https://www.lambdatest.com/blog/css-color-contrast/">What is Git and Github? And why is it so important?</a>
 - <a href="https://amanmandal.hashnode.dev/what-is-an-array-and-why-its-so-popular">What is an Array ?</a>
-- <a href="https://amanmandal.hashnode.dev/binary-search">Binary Search</a>
 
 <div>
   <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
