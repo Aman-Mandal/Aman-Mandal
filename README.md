@@ -3,7 +3,7 @@
 <h1 align="center">HI I'm Aman Mandal 👋  </h1>
 
 - **A Frontend Developer 💻** <br />
-- Currently learning **ThreeJS** & **Blender**
+- Currently learning **NestJS** & **AWS**
 - Aspiring Full Stack Blockchain Dev 
 - Focusing on **My JOB** for now 🙃
 
