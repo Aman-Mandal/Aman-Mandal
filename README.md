@@ -2,9 +2,8 @@
 
 <h1 align="center">HI I'm Aman Mandal 👋  </h1>
 
-- **A Frontend Developer 💻** <br />
-- Currently learning **NestJS** & **AWS**
-- Aspiring Full Stack Blockchain Dev 
+- **Fullstack Blockchain Developer 💻** <br />
+- Currently learning **RUST**
 - Focusing on **My JOB** for now 🙃
 
 ### Projects that I worked on:
