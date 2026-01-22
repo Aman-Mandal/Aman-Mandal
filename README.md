@@ -1,71 +1,139 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="360"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<h1 align="center">HI I'm Aman Mandal 👋  </h1>
+<h1 align="center">Hi, I'm Aman Mandal 👋</h1>
+<h3 align="center">Senior Frontend Web3 Engineer | DeFi • Trading • Solana & EVM</h3>
 
-- **Fullstack Blockchain Developer 💻** <br />
-- Currently learning **RUST**
-- Focusing on **My JOB** for now 🙃
+---
 
-### Projects that I worked on:
+### 👨‍💻 About Me
 
- - [**FVMCall**](https://github.com/VaibhavArora19/hackFS) - FVMCall is a powerful tool that enables Web3 developers to automate and manage smart contract functions effortlessly on the FVM (Filecoin Virtual Machine).
-   
- - [**ExplorerX**](https://explorerx.vercel.app/) - ExplorerX is the ultimate solution for hassle-free smart contract deployment, management, and verification on multiple chains. With a sleek and intuitive user interface, ExplorerX makes multi-chain smart contract management a breeze. The interface is user-friendly and easy to navigate, making it perfect for builders of all skill levels.
-   
-  - [**LinkPay**](https://linkpay.vercel.app/) - LinkPay is a one-stop gateway that makes it easy to receive payments in crypto. With its simple yet modern UI, businesses, freelancers, creators, and DAOs can seamlessly receive payments without the need for manual checks or the risk of payment volatility.
-   
-  - [**PolyDex**](https://poly-dex.vercel.app/) - A Peer to peer decentralised crypto marketplace where user can sell and buy polygon chain cryptocurrencies using any payment method.
-  - [**Audiophile**](https://audiophile-aman.vercel.app/) - An E-commerce store for audio products like Headphones, Earphones and Speaker built with NextJS, Tailwind CSS, Redux and Firebase
-  
-##
+Senior Frontend Web3 Engineer with **3+ years of experience** building **production-grade DeFi and trading applications** across **Solana and EVM ecosystems**.
 
-### Tech Stack :
+I specialize in:
+- **Low-latency, real-time UIs**
+- **Cross-chain UX & protocol integrations**
+- **Scalable frontend architectures** for capital-intensive crypto products
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width=40 height=40/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40 height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width=40 height=40/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width=40 height=40/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 height=40/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=40 height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=40 height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=40 height=40/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=40 height=40/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=40 height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width=40 height=40/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40 height=40/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=40 height=40 />
+Currently working on **high-performance trading systems** and diving deeper into **Rust & Solana internals**.
 
+---
 
-</div>
+### 🏆 Key Impact
 
-##
+- Led frontend for a **multi-chain DeFi platform used by 100K+ users across 8+ chains**
+- Built **Solana + Hyperliquid trading UI** with real-time market sync under **100ms latency**
+- Reduced **cross-chain transaction failures by 40%+**
+- Cut governance execution latency by **~70%**
+- Integrated **24+ DeFi protocols across 7 chains**
+- Led & mentored a **frontend team of 4 engineers**
+- **Winner of 12+ hackathons**, earning **$20,000+ in prizes**
 
-### Blogs :
+---
 
-- <a href="https://www.lambdatest.com/blog/css-typography-and-encoding/">Complete guide on CSS Typography & Encoding</a>
-- <a href="https://www.lambdatest.com/blog/css-color-contrast/">CSS Color-Contrast(): A Step-By-Step Guide</a>
-- <a href="https://www.lambdatest.com/blog/css-color-contrast/">What is Git and Github? And why is it so important?</a>
-- <a href="https://amanmandal.hashnode.dev/what-is-an-array-and-why-its-so-popular">What is an Array ?</a>
+### 💼 Work Experience
 
-<div>
-  <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</div>
+#### **Sr. Frontend Engineer**  
+**Syntax** · *May 2025 – Present*
 
+- Built **Splat**, a high-performance Solana + Hyperliquid trading app using **Svelte 5, TypeScript, Tailwind**
+- Designed **low-latency trading dashboards** using WebSockets, Hyperliquid APIs, Jupiter & Helius SDKs
+- Achieved **<100ms real-time market data sync**
+- Integrated **Turnkey IndexedDB Wallet** for auto-signing and session-based UX
+- Engineered secure **cross-chain bridging UI** using **Relay Protocol**
+- Collaborated with backend teams to reduce **bridge failures by 40%+**
 
-##
+---
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Aman-Mandal&show_icons=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Mandal&theme=react" width="48%" >
+#### **Frontend Engineer (Lead)**  
+**StationX.network** · *Mar 2023 – Apr 2025*
 
-##
+- Led frontend development for a **multi-chain investment platform** with **100K+ users**
+- Shipped complex DeFi features:
+  - staking dashboards
+  - relayer-based deposit flows
+  - governance execution UI
+  - portfolio analytics & distributions
+- Re-architected governance flows by replacing Safe API Service with a **custom batching service**
+  → **70% execution latency reduction**
+- Integrated **24+ DeFi protocols** (EigenLayer, Stader, Rocket Pool, Renzo, etc.)
+- Defined frontend architecture standards (state mgmt, caching, components)
+- Mentored junior engineers and led code reviews
 
-<a href="https://twitter.com/AmanMandal_">
-  <img align="right" alt="Aman Mandal | Twitter "src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-</a>
+---
+
+#### **Frontend Engineer**  
+**Spreadefi** · *May 2024 – Aug 2024*
+
+- Built full frontend for a **DeFi leverage & liquidity protocol** across 4 chains
+- Developed:
+  - multi-chain lending & borrowing
+  - leverage positions
+  - unified portfolio views
+- Integrated **Aave, Beefy, Compound, Zerolend** via **Wagmi + Viem**
+
+---
+
+#### **Freelance Fullstack Engineer**  
+*Jun 2022 – Present*
+
+- **Polymarket Strategy Bot**  
+  Built a hedging bot for simultaneous YES/NO limit orders focused on execution reliability
+
+- **YoPeG**  
+  On-chain NFT social platform with Instagram-like UX  
+  *(NestJS + TypeScript backend)*
+
+- **Story Protocol IP Platform**  
+  Full-stack Web3 app converting written content into IP-backed NFTs for licensing & monetization
+
+---
+
+### 🚀 Selected Projects
+
+**ExplorerX**  
+Cross-chain smart contract deployment & management tool  
+`Next.js • Viem • Chainlink CCIP • Solidity • IPFS`  
+👉 https://explorerx.vercel.app/
+
+**ZKVote**  
+Cross-chain governance platform on zkEVM  
+`Next.js • TypeScript • Viem`
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- TypeScript, React, Next.js, Svelte 5, Tailwind CSS
+
+**Web3**
+- Solana Web3.js, Viem, Wagmi, Ethers v5/v6, Solidity
+
+**Backend**
+- Node.js, NestJS, GraphQL, MongoDB, PostgreSQL, AWS (EC2)
+
+**Tooling**
+- Git, Vite, Jest, Mocha, Sentry, Jira
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-Mandal&show_icons=true&theme=react" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Mandal&theme=react" width="48%" />
+
+---
+
+### 🌐 Connect
+
 <a href="https://www.linkedin.com/in/amanmandal/">
-  <img align="right" alt="Aman Mandal | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
+<a href="https://twitter.com/AmanMandal_">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+
+---
+
+⭐ Open to **Senior Frontend / Web3 / DeFi / Trading Infrastructure** roles
