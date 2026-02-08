@@ -22,15 +22,6 @@ Specialized in **low-latency real-time UIs**, cross-chain UX, and scalable front
 
 ---
 
-### 🏆 Highlights
-- 100K+ users across 8+ chains
-- 40%+ reduction in cross-chain failures
-- 70% faster governance execution
-- 24+ DeFi protocol integrations
-- 12+ hackathon wins ($20k+)
-
----
-
 ### 🛠 Stack
 **React, Next.js, Svelte 5, TypeScript, Tailwind**  
 **Solana, EVM, Viem, Wagmi, Solidity**  
